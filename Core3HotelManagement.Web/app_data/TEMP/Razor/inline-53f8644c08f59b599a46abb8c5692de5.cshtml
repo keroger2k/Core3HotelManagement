@@ -1,0 +1,26 @@
+﻿@{ var homeNode = Model.AncestorOrSelf(); }
+            <a href="@homeNode.Url">@homeNode.Name</a>
+            <div class="nav-collapse">
+                <ul class="nav">
+                    @foreach (var page in homeNode.Children.Where("Visible"))
+                    {
+
+                        <li>
+                            <a href="@page.Url">@page.Name</a>
+
+                            <!-- If the page has child nodes (2nd level) that are visible -->
+                            @if (page.Children.Where("Visible").Count() > 0)
+                            {
+
+                                <ul>
+                                    @foreach (var childPage in page.Children.Where("Visible"))
+                                    {
+
+                                        <li><a href="@childPage.Url">@childPage.Name</a></li>
+                                    }
+                                </ul>
+                            }
+                        </li>  
+                    }
+                </ul>
+            </div>

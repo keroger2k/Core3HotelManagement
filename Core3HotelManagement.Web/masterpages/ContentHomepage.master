@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Core3HotelManagementMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <!-- Insert default "body" markup here -->
+    </asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="body" runat="server">
+    <img alt="Bmi-il-hi-interior-05" border="0" class="bg" src="/Content/images/background-image.jpg">
+    <div class="header-logo">
+        <img alt="H-mgmt-bandw" border="0" class="header-logo" src="/Content/images/logo.png">
+    </div>
+    <img alt="Bmi-il-hi-interior-01" border="0" class="sub-header-logo" src="/Content/images/sub-logo.jpg">
+    <div class="row main-content">
+        <div class="span3">
+            <div class="side-text">
+                <asp:ContentPlaceHolder ID="sidebar" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="span8">
+            <h2>
+                <umbraco:Item Field="pageName" runat="server" />
+            </h2>
+
+            <asp:ContentPlaceHolder ID="body" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+    </div>
+</asp:Content>

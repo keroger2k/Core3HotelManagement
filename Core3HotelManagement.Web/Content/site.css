@@ -1,0 +1,65 @@
+﻿body {
+    padding-top: 40px;
+}
+
+ img.bg {
+	min-height: 100%;
+	min-width: 1024px;
+	width: 100%;
+	height: auto;
+	position: fixed;
+	z-index: -1;
+	top: 0;
+	left: 0;
+}
+
+.main-content { overflow:hidden; background: #fdfdfd; background: rgba(246,246,246,0.5) ; background: url("/Content/images/noise-white.jpg") repeat ;}
+.header-logo { background-color: #fff; padding-left: 10px; }
+.sub-header-logo { width: 100%; }
+.footer { background: url("images/noise-grey.jpg") repeat; border-top: 1px solid silver; clear: both; padding: 20px 0px; }
+.footer p { width: 75%; margin: 0 auto; font-size: .9em; color: #fff; }
+ul.locations { list-style: none; }
+ul.location-details { list-style: none; }
+ul#hotel-list { list-style: none; margin-right: 60px; }
+ul#hotel-list li.hotel { text-align: left; margin-bottom: 15px; }
+ul#hotel-list li.hotel { border-bottom: 2px solid silver; }
+ul#hotel-list .address { list-style: none;  }    
+ul#hotel-list .address li { padding-bottom: 4px;  }
+ul.staff { list-style: none; }
+li.person { margin-bottom: 10px; }
+ul.person-details { list-style: none; }
+ul.person-details h4 { font-size: 1.5em; }
+ul.person-details label.title { font-size: 1.1em; }
+ul.person-details p { font-size: 1.1em; }
+
+.content-container { padding: 15px; }
+
+.content-container h2 { font-size: 2.2em; }
+.content-container h1, 
+.content-container h2, 
+.content-container h3, 
+.content-container h4, 
+.content-container h5, 
+.content-container h6 { 
+	font-family: "FontAwesome","Georgia","Helvetica Neue",Arial,sans-serif;
+	text-rendering: optimizelegibility;
+	margin-bottom: .5em;
+	font-weight: bold;
+}
+
+.side-text { 
+	padding: 60px 0px 0px 20px;
+        
+    font-family: "FontAwesome",Georgia,Times,"Times New Roman",serif; 
+	font-size: 14px; 
+	line-height: 1.4em;
+	color: #333;
+	font-style: italic;
+}
+
+.content-container p { 
+	font-family: "FontAwesome", Georgia,Times, "Times New Roman", serif; 
+	font-size: 16px; 
+	line-height: 1.4em; 
+	color: #333;
+}

@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Core3HotelManagementMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="head" runat="server">
+    <script type="text/javascript">
+        $(function () {
+            $('.carousel').carousel({
+                interval: 10000,
+                pause: ""
+            });
+        })
+</script>
+    <style type="text/css">
+        body {
+            overflow: hidden;
+        }
+
+        .container {
+            width: 100%;
+        }
+
+        #myCarousel img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            border-top: 2px solid #1B2B32;
+        }
+    </style>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="body" runat="server">
+    <div id="myCarousel" class="carousel slide" style="position: absolute; top: 0; z-index: -1; height: 100%; width: 100%;">
+        <div class="carousel-inner">
+            <div class="active item">
+                <img alt="Bmi-il-hi-exterior-night" border="0" src="http://www.core3hm.com/assets/properties/bmi/exterior/bmi-il-hi-exterior-night-e966906d6e7722667a40fc31379106b5.jpg" />
+            </div>
+            <div class="item">
+                <img alt="Bmi-il-hi-exterior-day" border="0" src="http://www.core3hm.com/assets/properties/bmi/exterior/bmi-il-hi-exterior-day-0769532a67cc558484d6c5bc374cf509.jpg" />
+            </div>
+
+        </div>
+    </div>
+</asp:Content>

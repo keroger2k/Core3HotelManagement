@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Core3HotelManagement.Web", "http://localhost:42488", "{B6CDE0E4-5C22-4D3C-9FCC-85084D86305E}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_42488"
+		Debug.AspNetCompiler.PhysicalPath = "Core3HotelManagement.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_42488\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_42488"
+		Release.AspNetCompiler.PhysicalPath = "Core3HotelManagement.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_42488\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Core3HotelManagement.Web\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CDE0E4-5C22-4D3C-9FCC-85084D86305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CDE0E4-5C22-4D3C-9FCC-85084D86305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

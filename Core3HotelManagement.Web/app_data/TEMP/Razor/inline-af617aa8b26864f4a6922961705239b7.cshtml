@@ -1,0 +1,20 @@
+﻿@item.Media("logo")
+            <ul>
+                @foreach(var child in Model.Children){
+        <li><a href="@Model.Url">@Model.Name</a>
+            <!-- If the page has child nodes (2nd level) that are visible -->
+            @if (child.Children.Where("Visible").Count() > 0)
+                            {
+
+                                <ul>
+                                    @foreach (var childPage in child.Children.Where("Visible"))
+                                    {
+
+                                        <li><a href="@childPage.Url">@childPage.Name</a></li>
+                                    }
+                                </ul>
+            }
+
+        </li>
+                }
+            </ul>

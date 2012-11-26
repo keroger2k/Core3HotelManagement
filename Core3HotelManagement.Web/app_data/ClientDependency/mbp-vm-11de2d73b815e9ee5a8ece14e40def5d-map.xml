@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjby9jc3MvdW1icmFjb0d1aS5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_d4a3f2ad27ee4c05bcdf8b4286af36c7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco/css/umbracoGui.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmJhLWJicS5taW4uanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL2pxdWVyeS5zaW1wbGVtb2RhbC4xLjQuMS5jdXN0b20uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy9VbWJyYWNvU3BlZWNoQnViYmxlQmFja2VuZC5qczsvdW1icmFjby9qcy9ndWlGdW5jdGlvbnMuanM7L3VtYnJhY28vU2VhcmNoL3F1aWNrU2VhcmNoLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5LmF1dG9jb21wbGV0ZS5qczsvdW1icmFjb19jbGllbnQvdWkvalF1ZXJ5V3Jlc2l6ZS5qczsvdW1icmFjby9qcy9sYW5ndWFnZS5hc3B4Oy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_ec00dcd4955148cbbd9781636e9c75db.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.ba-bbq.min.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/HistoryManager.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/modal/jquery.simplemodal.1.4.1.custom.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco/js/UmbracoSpeechBubbleBackend.js" />
+      <file name="/umbraco/js/guiFunctions.js" />
+      <file name="/umbraco/Search/quickSearch.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.autocomplete.js" />
+      <file name="/umbraco_client/ui/jQueryWresize.js" />
+      <file name="/umbraco/js/language.aspx" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_811036308e814b71873b24577cdc9e48.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9wYXNzd29yZFN0cmVuZ3RoL3Bhc3N3b3Jkc3RyZW5ndGguanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_c7dc7e91619142199709f933f4b4632d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/passwordStrength/passwordstrength.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_16536e482e4040c8b0d10cb2126a30de.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_284d873ef21c47cdbb59a02b2903ea11.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_458e1386a9714ac4b4589cfa8281f3ad.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9UaGVtZXMvdW1icmFjby9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS90cmVlSWNvbnMuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_c37f909b355845c29008332601a6ef14.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/ui/dd.css" />
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY28vanMvVW1icmFjb0Nhc2luZ1J1bGVzLmFzcHg7L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5LmRkLmpzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_d2dbe6dbe6fe41869788c8b7207f8431.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco/js/UmbracoCasingRules.aspx" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/ui/jquery.dd.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuY3NzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9zdHlsZXMuY3NzOy91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9zcGxpdGJ1dHRvbi5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_4efa6044feab496d9ac0c0306edc83f7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.css" />
+      <file name="/umbraco_client/CodeArea/styles.css" />
+      <file name="/umbraco_client/splitbutton/splitbutton.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQ29kZU1pcnJvci9qcy9tb2RlL3htbC94bWwuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbW9kZS9qYXZhc2NyaXB0L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbW9kZS9jc3MvY3NzLmpzOy91bWJyYWNvX2NsaWVudC9zcGxpdGJ1dHRvbi9qcXVlcnkuc3BsaXRidXR0b24uanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmNvb2tpZS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb1V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL21vZGUvaHRtbG1peGVkL2h0bWxtaXhlZC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL1VtYnJhY29FZGl0b3IuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnktZmllbGRzZWxlY3Rpb24uanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_003fee5d90c84b8e9e7cc868e56253b3.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/xml/xml.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/javascript/javascript.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/css/css.js" />
+      <file name="/umbraco_client/splitbutton/jquery.splitbutton.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/htmlmixed/htmlmixed.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/CodeArea/javascript.js" />
+      <file name="/umbraco_client/CodeArea/UmbracoEditor.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery-fieldselection.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_79a52c74bcdb469a992d83aeacca2a08.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_d4ca18ea88444201b73724a87257746c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_fe0e902c605c447abd8ff06d16fbb889.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_10c6d6dcc4f24a64b263d9fb6ca457c1.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/DateTimePicker/datetimepicker.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L01hc2tlZElucHV0L2pxdWVyeS5tYXNrZWRpbnB1dC0xLjMubWluLmpzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci91bWJEYXRlVGltZVBpY2tlci5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdGltZXBpY2tlci5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_558df66ca97d40dbaa54a582bdfc8dab.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/MaskedInput/jquery.maskedinput-1.3.min.js" />
+      <file name="/umbraco_client/DateTimePicker/umbDateTimePicker.js" />
+      <file name="/umbraco_client/DateTimePicker/timepicker.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuY3NzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9zdHlsZXMuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_71f4bda2f2b54650b5012e5443611a02.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.css" />
+      <file name="/umbraco_client/CodeArea/styles.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvbGliL2NvZGVtaXJyb3IuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9Db2RlTWlycm9yL2pzL21vZGUvcmF6b3IvcmF6b3IuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7L3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0NvZGVBcmVhL1VtYnJhY29FZGl0b3IuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnktZmllbGRzZWxlY3Rpb24uanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_b719c2b820454533aba59f93f6ba0e3b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/CodeMirror/js/lib/codemirror.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/CodeMirror/js/mode/razor/razor.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/CodeArea/javascript.js" />
+      <file name="/umbraco_client/CodeArea/UmbracoEditor.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery-fieldselection.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_9b711f419ad9473dbd0b6936bed47f4d.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_9a73484762024983a732816e4e42a18b.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_d5a0bd46d9ea444c9c88c234683f9144.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/DateTimePicker/datetimepicker.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC9NYXNrZWRJbnB1dC9qcXVlcnkubWFza2VkaW5wdXQtMS4zLm1pbi5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_b2d115aab2014e3b89ff1870295dd9d9.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/MaskedInput/jquery.maskedinput-1.3.min.js" />
+      <file name="/umbraco_client/DateTimePicker/umbDateTimePicker.js" />
+      <file name="/umbraco_client/DateTimePicker/timepicker.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_8f908b9871e145339925c4ed04591d9d.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_0c8908f4095b48a6bc3be9b80a183f83.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/DateTimePicker/datetimepicker.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9Db250ZXh0TWVudS9Dc3MvanF1ZXJ5LmNvbnRleHRNZW51LmNzczsvdW1icmFjb19jbGllbnQvRm9sZGVyQnJvd3Nlci9Dc3MvZm9sZGVyYnJvd3Nlci5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_d03d96f9e6324c86a4ed001b05ca091f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+      <file name="/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvdWkva25vY2tvdXQuanM7L3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0pzL2pxdWVyeS5jb250ZXh0TWVudS5qczsvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L3VtYnJhY29fY2xpZW50L0ZvbGRlckJyb3dzZXIvanMvZm9sZGVyYnJvd3Nlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_12f30d1e6787440892f7f76b7ebf3046.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/knockout.js" />
+      <file name="/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0Nzcy9qcXVlcnkuY29udGV4dE1lbnUuY3NzOy91bWJyYWNvX2NsaWVudC9Gb2xkZXJCcm93c2VyL0Nzcy9mb2xkZXJicm93c2VyLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_74d177452cb14ce499891a8e1084d322.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ContextMenu/Css/jquery.contextMenu.css" />
+      <file name="/umbraco_client/FolderBrowser/Css/folderbrowser.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQ2xpZW50TWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvdWkva25vY2tvdXQuanM7L3VtYnJhY29fY2xpZW50L3VpL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L0NvbnRleHRNZW51L0pzL2pxdWVyeS5jb250ZXh0TWVudS5qczsvdW1icmFjb19jbGllbnQvRmlsZVVwbG9hZGVyL2pzL2pxdWVyeS5maWxlVXBsb2FkZXIuanM7L3VtYnJhY29fY2xpZW50L0ZvbGRlckJyb3dzZXIvanMvZm9sZGVyYnJvd3Nlci5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuaG90a2V5cy5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_6aeb6ce0a27a4dbb9830800babf016a0.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/knockout.js" />
+      <file name="/umbraco_client/ui/knockout.mapping.js" />
+      <file name="/umbraco_client/ContextMenu/Js/jquery.contextMenu.js" />
+      <file name="/umbraco_client/FileUploader/js/jquery.fileUploader.js" />
+      <file name="/umbraco_client/FolderBrowser/js/folderbrowser.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_aaaed5b711f141588ce5b9686176f6ab.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/menuicon/style.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_79b40ef0db944896837acd95d4b16710.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/propertypane/style.css" />
+      <file name="/umbraco_client/modal/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/tabview/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ub2NvbmZsaWN0LWludm9rZS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS5tZXRhZGF0YS5taW4uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9VcGxvYWRNZWRpYUltYWdlLmpzOy91bWJyYWNvL2NvbnRyb2xzL0ltYWdlcy9JbWFnZVZpZXdlci5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdGlueV9tY2VfcG9wdXAuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvbWN0YWJzLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy9mb3JtX3V0aWxzLmpzOy91bWJyYWNvX2NsaWVudC90aW55bWNlMy91dGlscy92YWxpZGF0ZS5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvdXRpbHMvZWRpdGFibGVfc2VsZWN0cy5qczsvdW1icmFjb19jbGllbnQvdGlueW1jZTMvcGx1Z2lucy91bWJyYWNvaW1nL2pzL2ltYWdlLmpzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_bccdbe15230d4c1195e7f929a4cce35a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.noconflict-invoke.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco/controls/Images/UploadMediaImage.js" />
+      <file name="/umbraco/controls/Images/ImageViewer.js" />
+      <file name="/umbraco_client/tinymce3/tiny_mce_popup.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/tabview/javascript.js" />
+      <file name="/umbraco_client/tinymce3/utils/mctabs.js" />
+      <file name="/umbraco_client/tinymce3/utils/form_utils.js" />
+      <file name="/umbraco_client/tinymce3/utils/validate.js" />
+      <file name="/umbraco_client/tinymce3/utils/editable_selects.js" />
+      <file name="/umbraco_client/tinymce3/plugins/umbracoimg/js/image.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczs" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_c511216f954f49819dda99bbde723005.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/scrollingmenu/javascript.js" />
+      <file name="/umbraco_client/panel/javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOw" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_d96ea9e54600494a8f0e5a58b40f6b96.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/scrollingmenu/style.css" />
+      <file name="/umbraco_client/panel/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_14d56e0c3b1b4ca8836a11f5340414d6.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Tree/treeIcons.css" />
+      <file name="/umbraco_client/Tree/menuIcons.css" />
+      <file name="/umbraco_client/Tree/Themes/umbraco/style.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29Db250ZXh0LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNvbnRleHRtZW51LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL2pxdWVyeS50cmVlLmNoZWNrYm94LmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL05vZGVEZWZpbml0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9UcmVlL1VtYnJhY29UcmVlLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_1ab8ddbd2ac540c69ba9cd2c08068f02.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.js" />
+      <file name="/umbraco_client/Tree/UmbracoContext.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.contextmenu.js" />
+      <file name="/umbraco_client/Tree/jquery.tree.checkbox.js" />
+      <file name="/umbraco_client/Tree/NodeDefinition.js" />
+      <file name="/umbraco_client/Tree/UmbracoTree.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_e782aa9054074435a1af038027abbb5b.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/ui/default.css" />
+      <file name="/umbraco_client/modal/style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuY29va2llLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvQXBwbGljYXRpb25BY3Rpb25zLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5ob3RrZXlzLmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7" file="C:\Users\Kyle\Documents\My Web Sites\Core3HotelManagement.Web\App_Data\TEMP\ClientDependency\1_eff4f1e995e4446f91045e3849d2c2d3.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/UmbracoUtils.js" />
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+    </files>
+  </item>
+</map>
