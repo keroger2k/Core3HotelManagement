@@ -35,10 +35,10 @@
                         <a class="brand" href="/">Core 3 Hotel Management</a>
                         <div class="nav-collapse">
                             <ul class="nav">
-                                <li><a href="http://www.core3hm.com/properties">Properties</a></li>
+								<li><a href="/properties">Properties</a></li>
                                 <li><a href="/management-services.aspx">Management Services</a></li>
                                 <li><a href="/about-us-philosophy.aspx">About Us - Philosophy</a></li>
-                                <li><a href="http://www.core3hm.com/staff">Staff Bios</a></li>
+                                <li><a href="/staff">Staff Bios</a></li>
                                 <li><a href="/contact-us.aspx">Contact Us</a></li>
                             </ul>
                         </div>
