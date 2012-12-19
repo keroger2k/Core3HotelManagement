@@ -21,6 +21,23 @@
         <asp:ContentPlaceHolder ID="head" runat="server">
         </asp:ContentPlaceHolder>
 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Hotel Management located in Bloomington, IL">
+        <meta name="keywords" content="Hotel, Management, Bloomington, IL, Property">
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-32460653-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
+
     </head>
     <body>
         <div class="container main-content">
@@ -35,7 +52,7 @@
                         <a class="brand" href="/">Core 3 Hotel Management</a>
                         <div class="nav-collapse">
                             <ul class="nav">
-								<li><a href="/properties">Properties</a></li>
+                                <li><a href="/properties">Properties</a></li>
                                 <li><a href="/management-services.aspx">Management Services</a></li>
                                 <li><a href="/about-us-philosophy.aspx">About Us - Philosophy</a></li>
                                 <li><a href="/staff">Staff Bios</a></li>
@@ -51,6 +68,7 @@
             <div class="footer">
                 <p>
                     <a href="http://www.core3hotelmanagement.com">Core 3 Hotel Management</a> is a division of <a href="http://www.core3pm.com">Core 3 Property Management</a>. Core 3 Property Management’s mission is to stand above the competition by providing quality property management in an honest and professional manner to ensure long-lasting relationships with clients and property owners.
+               
                
                
                
